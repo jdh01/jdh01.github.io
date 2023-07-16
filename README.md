@@ -1,2 +1,0 @@
-# WEBSITE
-Jack's Website
